@@ -11,7 +11,7 @@ footer a {
 }
 
 p {
-    text-align: center;
+  text-align: center;
 }
 
 footer {
@@ -20,6 +20,7 @@ footer {
 
 .croissant-photo {
   max-width: 100%;
-  display: block
   border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
